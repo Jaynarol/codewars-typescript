@@ -3,7 +3,7 @@ var Calculator = (function () {
     function Calculator() {
     }
     Calculator.prototype.add = function (x, y) {
-        return 0;
+        return x + y;
     };
     return Calculator;
 }());

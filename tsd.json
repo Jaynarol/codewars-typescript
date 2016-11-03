@@ -7,6 +7,12 @@
   "installed": {
     "mocha/mocha.d.ts": {
       "commit": "baadc0b1309dbd75b25bac04bbee67976e2fbd17"
+    },
+    "assertion-error/assertion-error.d.ts": {
+      "commit": "baadc0b1309dbd75b25bac04bbee67976e2fbd17"
+    },
+    "chai/chai.d.ts": {
+      "commit": "baadc0b1309dbd75b25bac04bbee67976e2fbd17"
     }
   }
 }
